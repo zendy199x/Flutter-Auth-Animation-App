@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         fontFamily: "Poppins",
         primarySwatch: Colors.blue,
+        // Define our text field style
         inputDecorationTheme: InputDecorationTheme(
           filled: true,
           fillColor: Colors.white38,
